@@ -231,7 +231,7 @@ trait FillsSubAttributes
                 }
             }
         } else {
-            $this->shouldRemoveAll = true;
+//            $this->shouldRemoveAll = true;
         }
 
         return $this;
